@@ -38,12 +38,14 @@ import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
         fontWeight: '700',
         color: '#333',
         marginBottom: 16, /*ESPAÇAMENTO ENTRE O TITULO E O PARAGRAFO*/
+        textAlign: 'center',
     },
     subtitle: {
         fontSize: 18,
         fontWeight: '400',
         color: '#333',
         marginBottom: 16,
+        textAlign: 'center',
     },
     button: {
         backgroundColor: '#ff6b6bff',
